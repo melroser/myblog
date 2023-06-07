@@ -5,4 +5,5 @@ title: "Contact Information"
 
 You can reach me here at my various links:
 
-https://rob.rip
+
+https://rob.fail
