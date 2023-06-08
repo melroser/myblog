@@ -11,16 +11,13 @@ tags:
 
 {{< figure
   src="featured.jpg"
-  caption="a large library of high resultion film photography as a browsable  web gallery"
+  caption="Click here for a demo: "
   attr="-- Film.fyi"
   attrlink="https://film.fyi"
 >}}
 
-
-This is unfinished but check out my new webiste.
-
-Just Click the image above!
-
+a large library of high resultion film photography as a browsable  web gallery
+you can check out my new page for film photography.
 
 My goal was to figure out a was to make large image gallery really performant as a web application. Cheap to host and automated so as I rate things 3 stars or higher in Lightroom they will appear. [^location]  my first versions of this use a random assorment of images which i like but found a common complain among people checking it out was that it was diffifult to find any particular image they found before.
 
