@@ -1,6 +1,7 @@
 baseURL = 'http://localhost'
 languageCode = 'en-us'
 title = 'myblog'
+theme = "paperesque"
 
 # Uncomment these lines for droplist / resource removal support! See the
 # README for more details
@@ -46,12 +47,11 @@ title = 'myblog'
   url = "contact/"
 
 [[params.topmenu]]
-  name = "Newest Project"
-  url = "posts/film.fyi/"
+  name = "Lastet Project: Film.fyi"
+  url = "https://film.fyi"
 
 [[params.topmenu]]
   name = "rss"
   url = "posts/index.xml"
 
-theme = "paperesque"
 
